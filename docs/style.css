@@ -23,3 +23,12 @@ main {
 img { 
  max-width: 100%;
 }
+
+.snurra {
+    animation:   snurra 2s linear infinite;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+}
+keyframe .snurra {
+    
+}
