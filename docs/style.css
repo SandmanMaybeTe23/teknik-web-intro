@@ -12,7 +12,12 @@ main {
     padding: 2rem;
 }
 
-
+.navigation{
+    list-style: none;
+    padding: o;
+    display: flex;
+    gap: 1rem;
+}
 
 
 img { 
